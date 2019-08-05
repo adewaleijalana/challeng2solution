@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "124747646184-ds8j42sb1oie4leokf9b8ifiifkaakgi.apps.googleusercontent.com",
+          "client_id": "124747646184-hvl5an04q1pgg3nalvnsihuk6f7ron3k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.javaguru.travelmantics",
-            "certificate_hash": "507bc2cd68d0c5dc4b43e7ba1274b258b0737a36"
+            "certificate_hash": "8b8e3743a47bb1ea5c11568bb7374ad62f530e75"
           }
         },
         {
