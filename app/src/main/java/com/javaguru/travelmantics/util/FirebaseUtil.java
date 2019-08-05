@@ -132,5 +132,4 @@ public class FirebaseUtil {
         firebaseStorage = FirebaseStorage.getInstance();
         storageReference = firebaseStorage.getReference().child("deals_pictures");
     }
-
 }
